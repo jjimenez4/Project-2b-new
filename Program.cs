@@ -2,6 +2,7 @@
 //ISM 4300
 //Project 2b - Conditional Statements
 //9/17/2020
+//input number, grade is given
 
 
 
