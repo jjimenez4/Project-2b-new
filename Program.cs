@@ -1,4 +1,11 @@
-﻿using Microsoft.VisualBasic.CompilerServices;
+﻿//Jennifer Jimenez
+//ISM 4300
+//Project 2b - Conditional Statements
+//9/17/2020
+
+
+
+using Microsoft.VisualBasic.CompilerServices;
 using System;
 using System.Numerics;
 using System.Security.Cryptography.X509Certificates;
